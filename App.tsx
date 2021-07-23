@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
- import React, {useState, useEffect, useMemo, useLayoutEffect} from 'react';
+ import React, {useState, useLayoutEffect} from 'react';
  import { StyleSheet } from 'react-native';
  
  import {NavigationContainer} from '@react-navigation/native';
